@@ -21,10 +21,3 @@ model Artwork {
   description String?
   type Type
 }
-
-enum Type {
-  PEINTURE
-  SCULPTURE
-  DESSIN
-  ASCII_ART
-}
